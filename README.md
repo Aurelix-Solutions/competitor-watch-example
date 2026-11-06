@@ -5,6 +5,10 @@
 
 A small, runnable example for **[Competitor Watch](https://apify.com/aurelix/competitor-watch)**, an Apify Actor by Aurelix.
 
+[![Competitor Watch: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/competitor-watch-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/competitor-watch-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/competitor-watch-demo-v1.mp4)**
+
 ## What it does
 
 Competitor Watch takes a list of competitors (domains such as `allbirds.com`, or brand names) and, on each run, returns only what is new for each one since the previous run with the same state key:
