@@ -1,3 +1,5 @@
+**Competitor Monitoring: New Ads, Prices, Pages.** One report per competitor with only what is new: Meta and TikTok ads, page changes, Shopify products and prices, jobs. Price, example input and output, and FAQ: [Competitor Watch on the Aurelix tools site](https://aurelix-solutions.github.io/tools/competitor-watch/). Run it on the Apify Store: [apify.com/aurelix/competitor-watch](https://apify.com/aurelix/competitor-watch).
+
 <!-- PUBLISH AFTER: competitor-watch is public on the Apify Store -->
 # Competitor Watch: Python example
 
